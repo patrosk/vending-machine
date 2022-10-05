@@ -1,0 +1,15 @@
+/Users/aerendil/Projects/FinalProject/FinalProject/bin/Debug/net6.0/FinalProject
+/Users/aerendil/Projects/FinalProject/FinalProject/bin/Debug/net6.0/FinalProject.deps.json
+/Users/aerendil/Projects/FinalProject/FinalProject/bin/Debug/net6.0/FinalProject.runtimeconfig.json
+/Users/aerendil/Projects/FinalProject/FinalProject/bin/Debug/net6.0/FinalProject.dll
+/Users/aerendil/Projects/FinalProject/FinalProject/bin/Debug/net6.0/ref/FinalProject.dll
+/Users/aerendil/Projects/FinalProject/FinalProject/bin/Debug/net6.0/FinalProject.pdb
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/FinalProject.csproj.AssemblyReference.cache
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/FinalProject.AssemblyInfoInputs.cache
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/FinalProject.AssemblyInfo.cs
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/FinalProject.csproj.CoreCompileInputs.cache
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/FinalProject.dll
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/ref/FinalProject.dll
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/FinalProject.pdb
+/Users/aerendil/Projects/FinalProject/FinalProject/obj/Debug/net6.0/FinalProject.genruntimeconfig.cache
